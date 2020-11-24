@@ -21,7 +21,7 @@
                                <span style="font-family: monospace;"></head>
                                <center> 
                                <div class="error">
-                                  <img border="0" src="https://l.top4top.io/p_16891vs4n0.jpg" width="250" height="">
+                                  <img border="0" src="https://k.top4top.io/p_1789r0r520.png" width="250" height="">
                                      <br>
                                         <font size="4" face="Terminal">
                                       <br>                                                                         </br>
